@@ -1,0 +1,6 @@
+c:\users\chaimw\documents\visual studio 2017\Projects\largestPalindrome\largestPalindrome\bin\Debug\largestPalindrome.exe.config
+c:\users\chaimw\documents\visual studio 2017\Projects\largestPalindrome\largestPalindrome\bin\Debug\largestPalindrome.exe
+c:\users\chaimw\documents\visual studio 2017\Projects\largestPalindrome\largestPalindrome\bin\Debug\largestPalindrome.pdb
+c:\users\chaimw\documents\visual studio 2017\Projects\largestPalindrome\largestPalindrome\obj\Debug\largestPalindrome.csprojResolveAssemblyReference.cache
+c:\users\chaimw\documents\visual studio 2017\Projects\largestPalindrome\largestPalindrome\obj\Debug\largestPalindrome.exe
+c:\users\chaimw\documents\visual studio 2017\Projects\largestPalindrome\largestPalindrome\obj\Debug\largestPalindrome.pdb
